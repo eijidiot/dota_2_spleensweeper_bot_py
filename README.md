@@ -1,3 +1,7 @@
+# Credits to Andrey-Karlins, this version will be an modified & archived.
+https://github.com/andrey-karklins/dota2_mineweeper_bot
+
+
 # dota2_mineweeper_bot
 Automatic solver for Dota 2 Act IV Minesweeper minigame
 
